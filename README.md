@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laperex&layout=compact&theme=tokyonight&border_radius=0&lang-count=1)
+-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laperex&layout=compact&theme=tokyonight&border_radius=0&lang-count=1)
 
 ![This is an image](https://i.redd.it/gozklvjnlwnc1.jpeg)
 <!--
