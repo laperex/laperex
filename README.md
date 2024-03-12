@@ -1,3 +1,5 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laperex&layout=compact&theme=tokyonight&border_radius=0&lang-count=1)
+
 ![This is an image](https://i.redd.it/gozklvjnlwnc1.jpeg)
 <!--
 **TheReaper2077/TheReaper2077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,5 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laperex&layout=pie)]
